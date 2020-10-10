@@ -1,4 +1,4 @@
-# Programming-Projects
+# matchStability
 A combination of Java and Javascript projects working with data structures and algorithms.
 This program tests the proper matching of two inputs. The program matches a matrix of companies to a matrix of candidates that are a proper fit to those companies.
 The result is hires, an array of objects matching a company to a candidate.
